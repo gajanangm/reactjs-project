@@ -1,0 +1,48 @@
+{
+  "jobs-db": [
+    {
+      "id": "a208",
+      "title": "Servicenow Developer",
+      "description": "testing desc",
+      "location": "pune",
+      "skills": "js, ttt",
+      "status": "Closed"
+    },
+    {
+      "id": "56ac",
+      "title": "Java Full Stack Developer",
+      "description": "Tata Consultancy Services is an IT services, consulting and business solutions organization that has been partnering with many of the world’s largest businesses for the past 50 years. We believe innovation and collective knowledge can transform all our futures with greater purpose.",
+      "location": "pune ",
+      "skills": " Java/Springboot Microservices + MS SQL + Angular/React Developers",
+      "status": "Open"
+    }
+  ],
+  "applicants-db": [
+    {
+      "id": "8b5a",
+      "name": "Gajanan Manwar",
+      "email": "gajanan@test.com",
+      "resume": {
+        "0": {}
+      },
+      "resumeUrl": "blob:http://localhost:5173/6678b680-1230-491b-9b4b-f3705bb045f8",
+      "date": "2025-07-05T11:33:23.133Z"
+    },
+    {
+      "id": "aeae",
+      "name": "test2",
+      "email": "test2@test.com",
+      "resume": "blob:http://localhost:5173/b538608c-fbb0-4f70-9338-ac2d2108010f",
+      "jobId": null,
+      "appliedAt": "2025-07-05T16:47:36.638Z"
+    },
+    {
+      "id": "3157",
+      "name": "teat",
+      "email": "gajanan@sss.com",
+      "resume": "blob:http://localhost:5173/d9611fb4-5c4c-4ccc-9327-b1440b04c5a7",
+      "jobId": null,
+      "appliedAt": "2025-07-05T17:12:30.387Z"
+    }
+  ]
+}
